@@ -14,19 +14,19 @@
                 },
                 {
                     "definition": "কুইক ওপেন",
-                    "code": "Cmd + P"
+                    "code": "⌘ + P"
                 },
                 {
                     "definition": "নতুন উইন্ডো ওপেন করা",
-                    "code": "Cmd + Shift + N"
+                    "code": "⌘ + Shift + N"
                 },
                 {
                     "definition": "উইন্ডো ক্লোস করা",
-                    "code": "Cmd + Shift + W"
+                    "code": "⌘ + Shift + W"
                 },
                 {
                     "definition": "ইউজার সেটিংসে যাওয়া",
-                    "code": "Cmd +"
+                    "code": "⌘ , "
                 }
             ]
         },
