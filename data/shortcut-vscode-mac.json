@@ -1,7 +1,7 @@
 {
-    "id": "shortcut-vscode-win",
-    "title": "শর্টকাট কী - ভিস্যুয়াল স্টুডিও কোড এডিটর(উইন্ডোজ)",
-    "slug": "shortcut-vscode-win",
+    "id": "shortcut-vscode-mac",
+    "title": "শর্টকাট কী - ভিস্যুয়াল স্টুডিও কোড এডিটর(ম্যাক)",
+    "slug": "shortcut-vscode-mac",
     "description": "ভিস্যুয়াল স্টুডিও কোড এডিটর এর প্রয়োজনী উইন্ডোজ শর্টকাট কী",
     "colorPref": "#333",
     "contents": [
@@ -10,27 +10,23 @@
             "items": [
                 {
                     "definition": "কমান্ড প্যালেট দেখানো/হাইড করা",
-                    "code": "Ctrl + Shift + P, F1"
+                    "code": "⇧⌘P, F1"
                 },
                 {
                     "definition": "কুইক ওপেন",
-                    "code": "Ctrl + P"
+                    "code": "Cmd + P"
                 },
                 {
                     "definition": "নতুন উইন্ডো ওপেন করা",
-                    "code": "Ctrl + Shift + N"
+                    "code": "Cmd + Shift + N"
                 },
                 {
                     "definition": "উইন্ডো ক্লোস করা",
-                    "code": "Ctrl + Shift + W"
+                    "code": "Cmd + Shift + W"
                 },
                 {
                     "definition": "ইউজার সেটিংসে যাওয়া",
-                    "code": "Ctrl +"
-                },
-                {
-                    "definition": "কীবোর্ড শর্টকার্ট দেখা",
-                    "code": "Ctrl + K Ctrl + S"
+                    "code": "Cmd +"
                 }
             ]
         },
@@ -39,32 +35,20 @@
             "items": [
                 {
                     "definition": "নতুন ফাইল",
-                    "code": "Ctrl + N"
+                    "code": "Cmd + N"
                 },
 
                 {
                     "definition": "ওপেন ফাইল",
-                    "code": "Ctrl + O"
+                    "code": "Cmd + O"
                 },
                 {
                     "definition": "সেভ করা",
-                    "code": "Ctrl + S, Ctrl + Shift + S"
+                    "code": "Cmd + S, Cmd + Shift + S"
                 },
                 {
                     "definition": "সকল কিছু সেভ করা",
                     "code": "Ctrl + K S"
-                },
-                {
-                    "definition": "ক্লোস করা",
-                    "code": "Ctrl + F4"
-                },
-                {
-                    "definition": "সকল কিছু ক্লোস করা",
-                    "code": "Ctrl + K Ctrl + W"
-                },
-                {
-                    "definition": "ক্লোস করা এডিটর ওপেন করা",
-                    "code": "Ctrl + Shift + T"
                 },
                 {
                     "definition": "প্রিভিও মুড এডিটর ওপেন রাখা",
